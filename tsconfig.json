@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "sourceMap": true
+    },
+    "files": [
+        "./typings/index.d.ts",
+        "./src/main.tsx"
+    ]
+}
